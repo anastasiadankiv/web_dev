@@ -1,4 +1,4 @@
 <?php
-echo "Today is " . date("Y/m/d") . "<br>";
+echo "Today date : " . date("Y/m/d") . "<br>";
 echo "" . date("l");
 ?>
