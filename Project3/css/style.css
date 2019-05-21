@@ -1,15 +1,15 @@
 html {
   height: 100%;
-  background-color: #333333;
+  background-color: pink;
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 .navbar {
   overflow: hidden;
-  background-color: #282923;
+  background-color: #ee82ee;
 }
 
 .navbar a {
@@ -33,18 +33,18 @@ body {
   color: white;
   padding: 14px 16px;
   background-color: inherit;
-  font-family: inherit;
+  font-family: 'Raleway', sans-serif;
   margin: 0;
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: #656567;
+  background-color: lightpink;
 }
 
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #A9A9AB;
+  background-color:lightblue;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -60,7 +60,7 @@ body {
 }
 
 .dropdown-content a:hover {
-  background-color: #ddd;
+  background-color: lightpink;
 }
 
 .dropdown:hover .dropdown-content {
@@ -74,7 +74,7 @@ body {
 
 .div_input h2 {
   font-size: 32px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: white;
   
 }
